@@ -35,6 +35,5 @@ Outcome:
 
 2.  Train accuracy - 0.917 <br/>
     Train loss - 0.59 <br/><br/>
-    Test accuracy - 0.875 <br/>
-    Test loss - 0.77
-3.  TODO- to overcome overfitting, add L2 or dropout regularization
+    Test accuracy - 0.866 <br/>
+    Test loss - 0.53
