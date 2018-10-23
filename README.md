@@ -10,7 +10,7 @@ Training set: 1080 pictures (64 by 64 pixels) of signs representing numbers from
 Test set: 120 pictures (64 by 64 pixels) of signs representing numbers from 0 to 5 (20 pictures per number)
 
 Here are examples for each number, and corresponding labels converted to one-hot. 
-![alt signs_dataset](https://raw.githubusercontent.com/Giridharvallepu/ResNets-SIGNS-Keras/master/signs_dataset.png)
+![alt signs_dataset](https://raw.githubusercontent.com/Giridharvallepu/ResNets-SIGNS-Keras/master/signs_data_kiank.png)
 
 Architecture:
 1. Input is an image of size 64 x 64 x 3 (RGB), which is normalized by dividing 255
